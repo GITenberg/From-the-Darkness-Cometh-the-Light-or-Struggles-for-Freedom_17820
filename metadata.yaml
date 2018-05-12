@@ -1,0 +1,36 @@
+_repo: From-the-Darkness-Cometh-the-Light-or-Struggles-for-Freedom_17820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delaney, Lucy A. (Lucy Ann)
+    alias: Berry, Lucy Ann
+    gutenberg_agent_id: '7622'
+    url: http://www.gutenberg.org/2009/agents/7622
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Delaney
+description: ''
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American women -- Biography'
+- !lcsh 'Delaney, Lucy A. (Lucy Ann), 1828?- -- Trials, litigation, etc.'
+- !lcsh 'Kidnapping -- Illinois -- History -- 19th century'
+- !lcsh 'Slavery -- Missouri -- Saint Louis -- History -- 19th century'
+- !lcsh 'Slaves -- Missouri -- Saint Louis -- Biography'
+- !lcsh 'Fugitive slaves -- Missouri -- Saint Louis -- Biography'
+- !lcsh 'Slaves'' writings, American'
+- !lcsh 'Women slaves -- Missouri -- Saint Louis -- Biography'
+- !lcsh 'Freedmen -- Biography'
+- !lcsh 'Delaney, Lucy A. (Lucy Ann), 1828?-'
+- !lcsh 'Slaves -- Legal status, laws, etc. -- United States'
+- !lcc 'E300'
+title: From the Darkness Cometh the Light, or Struggles for Freedom
+url: http://www.gutenberg.org/ebooks/17820
